@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muklasr&theme=tokyonight&count_private=true&show_icons=true" width="470px" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muklasr&theme=tokyonight&layout=compact" width="470px" />
+</a>
 <!--
 **muklasr/muklasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
